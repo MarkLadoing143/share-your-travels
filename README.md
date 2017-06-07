@@ -1,7 +1,7 @@
 # Share Your Travels (Version 1)
 Link: https://shareyourtravelsv1.000webhostapp.com/index.php
 
-Originally developed for COMP 3512 - Web II: Web Application Development at Mount Royal University with base code and SQL file provided by the course instructor. Additional Information about this assignment can be found [here](https://github.com/MarkLadoing143/share-your-travels-v1/blob/master/COMP%203512%20Assignment%201.pdf).
+Originally developed in November 2015 for COMP 3512 - Web II: Web Application Development at Mount Royal University with base code and SQL file provided by the course instructor. Additional Information about this assignment can be found [here](https://github.com/MarkLadoing143/share-your-travels-v1/blob/master/COMP%203512%20Assignment%201.pdf).
 
 ## Description
 
